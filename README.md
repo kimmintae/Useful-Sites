@@ -11,3 +11,6 @@ probability and statistics Lecture(prof. Lee sang hwa) : [http://www.kocw.net/ho
 
 ## Linear Algebra
 Linear Algebra Lecture(prof. Lee sang hwa) : [https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
+
+## NLP
+oxford-cs-deepnlp-2017 : [https://github.com/oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
